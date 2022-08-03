@@ -1,0 +1,2 @@
+# DiscordVanitySniper
+Proxied vanity sniper
