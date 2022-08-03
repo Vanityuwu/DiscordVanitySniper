@@ -1,4 +1,4 @@
-ip:port
-hostname:port
-username:password@hostname:port
-username:password@ip:port
+http://ip:port
+http://hostname:port
+http://username:password@hostname:port
+http://username:password@ip:port
